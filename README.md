@@ -4,20 +4,20 @@
 
 ### 内容安排
 
-[assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
+[assignment1](https://github.com/MongQi/MachineLearning/tree/master/assignment1)
 
 - 时间：`2017年10月8号`至`2017年10月15号`
 - 基础：Git、Python基础学习
 - 算法：k-NN
 - 作业：CIFAR-10 图像分类
 
-[assignment2](https://github.com/quinwu/DSVC/tree/master/assignment2)
+[assignment2](https://github.com/MongQi/MachineLearning/tree/master/assignment2)
 - 时间：`2017年10月16号` 至 `2017年10月22号`。
 - 算法：Linear Regression （线性回归）
 - 优化：梯度下降法
 - 作业：Boston House Price Predict 
 
-[assignment3](https://github.com/quinwu/DSVC/tree/master/assignment3)
+[assignment3](https://github.com/MongQi/MachineLearning/tree/master/assignment3)
 - 时间：`2017年10月23号`至`2017年10月29号`
 - 算法：Logistic Regression（对数几率回归），sigmoid 函数
 - 作业：MNIST 手写数字识别
