@@ -1,0 +1,16 @@
+- X：包含训练数据的数字形状（N，D）数组; 每个维度D都有N个训练样本。
+- X: A numpy array of shape (N, D) containing training data; there are N training samples each of dimension D.
+- y：包含培训标签的数字形状（N）;
+- y: A numpy array of shape (N,) containing training labels;
+- learning_rate：（float）学习率进行优化。
+- learning_rate: (float) learning rate for optimization.
+- num_iters：（integer）优化时要执行的步骤数
+- num_iters: (integer) number of steps to take when optimizing
+- batch_size：（整数）每个步骤使用的培训示例数。
+- batch_size: (integer) number of training examples to use at each step.
+- verbose：（boolean）如果为true，则在优化过程中打印进度。
+- verbose: (boolean) If true, print progress during optimization.
+
+TODO：来自训练数据的样本batch_size个元素及其对应的标签，用于此轮梯度下降。
+将数据存储在X_batch中，并将其相应的标签存储在y_batch中; 采样后X_batch应该有shape（batch_size，dim）和y_batch应该有shape（batch_size，）
+  提示：使用np.random.choice生成索引。 更换的取样速度比采样速度要快，无需更换。
