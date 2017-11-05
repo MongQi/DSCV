@@ -30,7 +30,7 @@ assignment4
 - 算法：SVM Hinge Loss
 - 作业：CIFAR-10图像分类
 
-[assignment5](https://github.com/quinwu/DSVC/tree/master/assignment5)
+[assignment5](https://github.com/MongQi/DSVC/tree/master/assignment5)
 - 时间：`2017年10月30号`至  `2017年11月5号`。
 - Neural Network介绍
 - forward pass 、 backpropagation介绍
