@@ -9,8 +9,7 @@
 ### 数据
 
 - [MNIST手写数字数据集](http://yann.lecun.com/exdb/mnist/)
-
-在**qq群里下载**`MNIST.csv`数据文件，存放在路径`/homework/DSVC/datasets/`下即可。
+- [下载方式2](链接：https://pan.baidu.com/s/1dE64UAH)  ( 密码：801k)
 
 ### 运行
 
@@ -28,12 +27,3 @@ The Jupyter Notebook `logistic_regressino.ipynb` will walk you through implement
 
 - Binary classification with Logistic Regression classifier
 - Multiclass classification with Logistic Regression classifier and "one vs all"
-
-### 作业提交
-
-- 截止时间：`2017年10月28日08点`
-- 提交方式：将完成的作业文件提交到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的标题为`姓名-assignment3`。
-- 格式说明：
-  - 需要提交的文件：`logistic_regression.ipynb`文件以及他生成的`.html`文件、`logistic_regression.py`代码文件。
-  - 将这些文件压缩成一个`.zip`文件， 命名与邮件标题相同。
-  - 你提交的作业版本应与Github上的最新版本一致。

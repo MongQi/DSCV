@@ -34,13 +34,7 @@
 
 #### 作业 
 
-- [k-Nearest Neighbor classifier](https://github.com/quinwu/DSVC/tree/master/assignment1/homework)
-
-#### 其他
-
-可以先看资料，环境配置遇到问题可以联系**王琦**。
-
-有一切问题可以在群里提问。
+- [k-Nearest Neighbor classifier](https://github.com/MongQi/MachineLearning/tree/master/assignment1/homework)
 
 
 

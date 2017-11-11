@@ -24,9 +24,4 @@
 
 ###### 目标变量
 
-1. `MEDV`: 房屋的中值价格
-
-#### 作业提交
-
-- 截止时间：`2017年10月21日0点`
-- 提交方式：将完成的`boston_housing.ipynb`发送到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的题目为`真实姓名-assignment2`（方便快速查找）。
+​	`MEDV`: 房屋的中值价格
