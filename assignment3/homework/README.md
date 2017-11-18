@@ -9,7 +9,7 @@
 ### 数据
 
 - [MNIST手写数字数据集](http://yann.lecun.com/exdb/mnist/)
-- [下载方式2](链接：https://pan.baidu.com/s/1dE64UAH)  ( 密码：801k)
+- [下载方式2](https://pan.baidu.com/s/1dE64UAH)  ( 密码：801k)
 
 ### 运行
 
